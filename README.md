@@ -22,7 +22,7 @@
     <li><a href="https://filippe.com.br/portfolio/habbonados-v17/portal-blogs.html" target="_blank">Portal Blogs</a></li>
     <li><a href="https://filippe.com.br/portfolio/habbonados-v17/portal-forum.html" target="_blank">Portal Fórum</a></li>
     <li><a href="https://filippe.com.br/portfolio/habbonados-v17/portal-noticias.html" target="_blank">Portal Notícias</a></li>
-    <li><a href="https://filippe.com.br/portfolio/habbonados-v17/portal-artes.html" target="_blank">Portal Artes</a></li>
+    <li><a href="https://filippe.com.br/portfolio/habbonados-v17/portal-artes.html" target="_blank">Postar Artes</a></li>
   </ul>
 
 <p>Obs: A versão completa e outras páginas foram pedidas, mas como eu fiz essa parte de codificação, encotrei os arquivos que estão aqui.</p>
