@@ -8,4 +8,6 @@
   <p>Muitos arquivos foram perdidos, mas quando a versão foi ao ar o front-end era feito com HTML, CSS e AngularJS, já o back-end foi feito com PHP.</p>
   
 <h2>Alguns links para conferir:</h2>
-  <a href="https://filippe.com.br/portfolio/habbonados-v17/inicio.html">Início</a>
+  <ul>
+    <li><a href="https://filippe.com.br/portfolio/habbonados-v17/inicio.html" target="_blank">Início</a></li>
+  </ul>
